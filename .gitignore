@@ -1,0 +1,4 @@
+/resources/temp
+/target/
+**/*.rs.bk
+/rust_temp

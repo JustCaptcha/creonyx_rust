@@ -1,0 +1,8 @@
+[package]
+name = "creonyx"
+version = "0.0.1"
+authors = ["JustCaptcha <higashi166@gmail.com>"]
+
+[dependencies]
+serde = "1.0.27"
+sfml = "0.14.0"
